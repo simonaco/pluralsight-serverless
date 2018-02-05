@@ -1,0 +1,17 @@
+{
+  "name": "second-serverless",
+  "version": "1.0.0",
+  "description": "A serverless API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "serverless"
+  ],
+  "author": "Simona Cotin",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.0.2"
+  }
+}
